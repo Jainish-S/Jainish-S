@@ -34,3 +34,9 @@ I'm Jainish, a Data Scientist who's pretty good with 🐍 Python (I promise, I d
 ![Tmux](https://img.shields.io/badge/-Tmux-1BB91F?style=flat&logo=tmux&logoColor=white)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📬 Get in Touch
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/jainish-savalia-10a03a201/)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
